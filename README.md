@@ -38,15 +38,12 @@ I am a passionate Software Engineer dedicated to building responsive, user-centr
 
 ---
 
-### 📈 GitHub Stats & Contribution Snake 🐍
+### 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muski504&theme=dark&hide_border=false" alt="Muskan's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muski504/muski504/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=muski504&theme=dark&show_icons=true" alt="GitHub Stats" />
@@ -60,6 +57,5 @@ I am a passionate Software Engineer dedicated to building responsive, user-centr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskankamran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskankamran.mk@gmail.com)
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muski504&color=green&style=flat-square)
