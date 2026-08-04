@@ -46,7 +46,6 @@ I am a passionate Software Engineer dedicated to building responsive, user-centr
 
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=muski504&theme=dark&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muski504&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
